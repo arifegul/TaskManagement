@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\TaskManagement\\TaskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66B78495-A66F-449E-80E6-237262E75F3F}|TaskManagement.Business\\TaskManagement.Business.csproj|c:\\users\\hp\\desktop\\taskmanagement\\taskmanagement\\taskmanagement.business\\handlers\\taskhandlers\\commandhandlers\\updatetaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B78495-A66F-449E-80E6-237262E75F3F}|TaskManagement.Business\\TaskManagement.Business.csproj|solutionrelative:taskmanagement.business\\handlers\\taskhandlers\\commandhandlers\\updatetaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B78495-A66F-449E-80E6-237262E75F3F}|TaskManagement.Business\\TaskManagement.Business.csproj|c:\\users\\hp\\desktop\\taskmanagement\\taskmanagement\\taskmanagement.business\\handlers\\taskhandlers\\commandhandlers\\updatetaskstatushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B78495-A66F-449E-80E6-237262E75F3F}|TaskManagement.Business\\TaskManagement.Business.csproj|solutionrelative:taskmanagement.business\\handlers\\taskhandlers\\commandhandlers\\updatetaskstatushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B78495-A66F-449E-80E6-237262E75F3F}|TaskManagement.Business\\TaskManagement.Business.csproj|c:\\users\\hp\\desktop\\taskmanagement\\taskmanagement\\taskmanagement.business\\handlers\\taskhandlers\\commandhandlers\\createtaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B78495-A66F-449E-80E6-237262E75F3F}|TaskManagement.Business\\TaskManagement.Business.csproj|solutionrelative:taskmanagement.business\\handlers\\taskhandlers\\commandhandlers\\createtaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateTaskHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TaskManagement\\TaskManagement\\TaskManagement.Business\\Handlers\\TaskHandlers\\CommandHandlers\\UpdateTaskHandler.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Business\\Handlers\\TaskHandlers\\CommandHandlers\\UpdateTaskHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TaskManagement\\TaskManagement\\TaskManagement.Business\\Handlers\\TaskHandlers\\CommandHandlers\\UpdateTaskHandler.cs",
+              "RelativeToolTip": "TaskManagement.Business\\Handlers\\TaskHandlers\\CommandHandlers\\UpdateTaskHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:56:42.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateTaskStatusHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TaskManagement\\TaskManagement\\TaskManagement.Business\\Handlers\\TaskHandlers\\CommandHandlers\\UpdateTaskStatusHandler.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Business\\Handlers\\TaskHandlers\\CommandHandlers\\UpdateTaskStatusHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TaskManagement\\TaskManagement\\TaskManagement.Business\\Handlers\\TaskHandlers\\CommandHandlers\\UpdateTaskStatusHandler.cs",
+              "RelativeToolTip": "TaskManagement.Business\\Handlers\\TaskHandlers\\CommandHandlers\\UpdateTaskStatusHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:56:41.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateTaskHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TaskManagement\\TaskManagement\\TaskManagement.Business\\Handlers\\TaskHandlers\\CommandHandlers\\CreateTaskHandler.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Business\\Handlers\\TaskHandlers\\CommandHandlers\\CreateTaskHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TaskManagement\\TaskManagement\\TaskManagement.Business\\Handlers\\TaskHandlers\\CommandHandlers\\CreateTaskHandler.cs",
+              "RelativeToolTip": "TaskManagement.Business\\Handlers\\TaskHandlers\\CommandHandlers\\CreateTaskHandler.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:56:35.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

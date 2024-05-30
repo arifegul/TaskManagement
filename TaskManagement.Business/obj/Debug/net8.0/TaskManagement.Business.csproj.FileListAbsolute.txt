@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Business\bin\Debug\net8.0\TaskManagement.Business.deps.json
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Business\bin\Debug\net8.0\TaskManagement.Business.dll
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Business\bin\Debug\net8.0\TaskManagement.Business.pdb
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Business\bin\Debug\net8.0\TaskManagement.Entities.dll
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Business\bin\Debug\net8.0\TaskManagement.Entities.pdb
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Business\obj\Debug\net8.0\TaskManagement.Business.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Business\obj\Debug\net8.0\TaskManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Business\obj\Debug\net8.0\TaskManagement.Business.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Business\obj\Debug\net8.0\TaskManagement.Business.AssemblyInfo.cs
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Business\obj\Debug\net8.0\TaskManagement.Business.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Business\obj\Debug\net8.0\TaskMana.A350D57D.Up2Date
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Business\obj\Debug\net8.0\TaskManagement.Business.dll
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Business\obj\Debug\net8.0\refint\TaskManagement.Business.dll
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Business\obj\Debug\net8.0\TaskManagement.Business.pdb
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Business\obj\Debug\net8.0\ref\TaskManagement.Business.dll
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Business\bin\Debug\net8.0\TaskManagement.Infrastructure.dll
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Business\bin\Debug\net8.0\TaskManagement.Infrastructure.pdb

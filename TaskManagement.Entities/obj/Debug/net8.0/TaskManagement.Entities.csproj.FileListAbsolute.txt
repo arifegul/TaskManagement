@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Entities\bin\Debug\net8.0\TaskManagement.Entities.deps.json
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Entities\bin\Debug\net8.0\TaskManagement.Entities.dll
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Entities\bin\Debug\net8.0\TaskManagement.Entities.pdb
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Entities\obj\Debug\net8.0\TaskManagement.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Entities\obj\Debug\net8.0\TaskManagement.Entities.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Entities\obj\Debug\net8.0\TaskManagement.Entities.AssemblyInfo.cs
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Entities\obj\Debug\net8.0\TaskManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Entities\obj\Debug\net8.0\TaskManagement.Entities.dll
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Entities\obj\Debug\net8.0\refint\TaskManagement.Entities.dll
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Entities\obj\Debug\net8.0\TaskManagement.Entities.pdb
+C:\Users\HP\Desktop\TaskManagement\TaskManagement\TaskManagement.Entities\obj\Debug\net8.0\ref\TaskManagement.Entities.dll
